@@ -50,10 +50,10 @@ This project demonstrates a complete NLP pipeline from raw text data to a functi
 - Confusion matrix analysis
 
 ## 📈 Results
-### Model	Vectorizer	Accuracy	
-Naive Bayes	Manual BOW	~98%	
-Logistic Regression	Manual BOW	~98%
-Naive Bayes	TF-IDF	~96%
+### Model	Vectorizer:	Accuracy	
+- **Naive Bayes	Manual BOW:**	~98%	
+- **Logistic Regression	Manual BOW:**	~98%
+- **Naive Bayes	TF-IDF:**	~96%
 
 ### 🎓 Learning Outcomes
 - Core NLP Concepts
